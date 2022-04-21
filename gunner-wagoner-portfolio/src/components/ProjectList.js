@@ -3,10 +3,10 @@ import React, { useState } from "react";
 const ProjectList = ({ project }) => {
   const [projects] = useState([
     {
-      name: "Portfolio",
-      path: "../assets/Portfolio.gif",
-      repo: "https://github.com/GunnySensei/Gunther-Wagoner-Portfolio",
-      site: "https://gunnysensei.github.io/Gunther-Wagoner-Portfolio/",
+      name: "Dedly",
+      path: "../assets/dedly.gif",
+      repo: "https://github.com/GunnySensei/project_dEd",
+      site: "https://project-ded.herokuapp.com/",
     },
     {
       name: "SeeVee",
